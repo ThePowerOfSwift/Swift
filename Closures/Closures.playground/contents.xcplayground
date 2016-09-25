@@ -6,5 +6,6 @@
         <page name='Standard Library Functions'/>
         <page name='Closures in iOS'/>
         <page name='Async Error Handling'/>
+        <page name='Guru'/>
     </pages>
 </playground>
