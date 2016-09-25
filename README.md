@@ -9,9 +9,9 @@ Description: Swift 3.0
 
 ## Xcode Support
 
-|                       |  [8.x.x]  |  [7.x.x]  | 
+|                       |  [7.x.x]  |  [8.x.x]  | 
 | --------------------- |:---------:|:---------:|
-| [Xcode Version ][1]   |           |     x     |
+| [Xcode Version ][1]   |     x     |     v     |
 
 
 [1]: http://developer.apple.com/xcode/
@@ -20,7 +20,7 @@ Description: Swift 3.0
 
 |                       |  [2.x.x]  |  [3.x.x]  | 
 | --------------------- |:---------:|:---------:|
-| [Swift Version ][2]   |           |     x     |
+| [Swift Version ][2]   |     x     |     v     |
 
 
 [2]: http://developer.apple.com/swift/
